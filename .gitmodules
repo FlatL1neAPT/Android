@@ -1,3 +1,6 @@
 [submodule "Evil-Droid"]
 	path = Evil-Droid
 	url = https://github.com/M4sc3r4n0/Evil-Droid
+[submodule "kwetza"]
+	path = kwetza
+	url = https://github.com/sensepost/kwetza
