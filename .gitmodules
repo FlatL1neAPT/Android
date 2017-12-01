@@ -4,3 +4,6 @@
 [submodule "kwetza"]
 	path = kwetza
 	url = https://github.com/sensepost/kwetza
+[submodule "Android_Kernel_CVE_POCs"]
+	path = Android_Kernel_CVE_POCs
+	url = https://github.com/ScottyBauer/Android_Kernel_CVE_POCs
