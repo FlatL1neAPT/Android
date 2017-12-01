@@ -8,3 +8,7 @@ https://github.com/M4sc3r4n0/Evil-Droid<br>
 https://github.com/sensepost/kwetza<br>
 Скрипт для инжектирование Meterpretera в apk приложения.<br>
 <br>
+<b>Android_Kernel_CVE_POCs</b><br>
+https://github.com/ScottyBauer/Android_Kernel_CVE_POCs<br>
+Эксплоиты под Android.<br>
+<br>
