@@ -12,3 +12,7 @@ https://github.com/sensepost/kwetza<br>
 https://github.com/ScottyBauer/Android_Kernel_CVE_POCs<br>
 Эксплоиты под Android.<br>
 <br>
+<b>android_vuln_poc-exp</b><br>
+https://github.com/jiayy/android_vuln_poc-exp<br>
+Эксплоиты под Android.<br>
+<br>
